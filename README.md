@@ -36,7 +36,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Running the tests
 
-To run the test you can easily download the client from [GitHub](https://github.com/johnathanAI/TimeStamper.WebClient)
+To run the test you can easily open/download the client from [GitHub](https://johnathanai.github.io/TimeStamper.WebClient/)
 
 
 ## Deployment
